@@ -21,7 +21,7 @@ ksniezek@protonmail.com
 ![obraz](https://user-images.githubusercontent.com/37062888/201471157-28a90596-d8e0-4b2b-a0b0-65525ad4a29b.png)
 
 
-<h1>ŻYCIE I WALKA</h1>
+<h1>ŻYCIE I WALKA (zycie_i_walka.py)</h1>
 
 Człowiek ma być stworzony za pomocą klasy. Zmienne w klasie to: życie, exp, obrazenia. Funkcje walka, leczenie, wyświetlanie statystyk.
 </br>
@@ -37,4 +37,9 @@ Opcje do wyboru w programie:
 </br>
 Gdy zycie spadnie nam ponizej 0 giniemy gdy exp wzrosnie nam ponad 1000 wygrywamy
 
+<h1>csv2html.py</h1>
+<p>Program ma nam zamieniać plik CSV na Tabelkę w html</p>
+<p>Struktura programu:</p>
+
+![image](https://user-images.githubusercontent.com/37062888/201533530-e09f7b97-d513-45ca-82b9-b63b220df948.png)
 
